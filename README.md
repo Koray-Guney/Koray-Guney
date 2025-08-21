@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify/2e2nic6cali6kss600qw4se7f)](https://open.spotify.com/user/2e2nic6cali6kss600qw4se7f)
+<!-- [![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify/2e2nic6cali6kss600qw4se7f)](https://open.spotify.com/user/2e2nic6cali6kss600qw4se7f) -->
             
